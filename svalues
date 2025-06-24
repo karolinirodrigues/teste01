@@ -1,0 +1,169 @@
+Target	S-value (mGy/MBq/s)	Standard error	Mass (g)
+Adipose/residual tissue	8,47E+06	9,43E+02	23.896.458.108.476
+Adrenal left	9,65E+06	2,34E+04	573.287.094.875
+Adrenal right	9,53E+05	3,61E+04	727.210.753.225
+Air inside body	6,26E+06	5,36E+05	0.037192371975
+Air outside body	1,98E+06	8,16E+04	15.809.265.029.085
+Alveolar-interstitium	1,79E+07	5,26E+02	8.490.458.882.675
+Ankles and foot bones cortical	4,72E+06	1,82E+03	171.745.498.848
+Ankles and foot bones spongiosa	6,61E+06	2,43E+03	2.702.821.975.579
+Anterior nasal passage (ET1)	7,30E+06	1,00E+04	431.928.633.125
+Ascending colon contents	3,58E+06	2,92E+03	100.006.765.716
+Ascending colon wall	8,62E+05	2,74E+03	8.999.974.555
+Blood vessels arms	7,64E+06	9,80E+03	432.386.103.875
+Blood vessels head	8,05E+06	9,56E+03	60.614.874.375
+Blood vessels legs	7,94E+06	1,53E+04	926.356.920.115
+Blood vessels trunk	9,31E+06	3,26E+03	2.423.786.776.675
+Brain	7,71E+06	2,17E+03	130.000.377.969
+Breast left adipose tissue	8,38E+06	2,09E+03	15.000.847.118.125
+Breast left glandular tissue	8,23E+06	2,94E+03	999.967.013.595
+Breast right adipose tissue	8,47E+05	9,22E+02	15.000.847.118.125
+Breast right glandular tissue	8,24E+06	2,69E+03	999.967.013.595
+Breast-a + Breast-g	8,35E+06	2,96E+03	5.000.103.450.815
+Bronchi	1,05E+07	6,35E+04	868.569.214.975
+Cartilage arms	7,15E+06	4,40E+01	985.132.762.075
+Cartilage head	7,78E+06	8,40E+03	157.842.657.775
+Cartilage legs	7,19E+06	8,22E+03	2.226.067.918.525
+Cartilage trunk	8,85E+06	3,79E+03	31.360.534.854
+Cervical spine cortical	6,50E+06	1,88E+04	70.882.347.888
+Cervical spine spongiosa	7,99E+06	1,36E+04	7.279.594.803.525
+Clavicles cortical	6,37E+06	1,62E+04	3.249.872.208
+Clavicles spongiosa	7,66E+06	1,10E+04	40.445.858.201.925
+Colon	8,80E+05	6,11E+03	3.599.989.822
+Cranium cortical	5,33E+06	4,73E+03	40.359.899.448
+Cranium spongiosa	6,49E+06	2,53E+03	4.169.873.334.495
+Descending colon contents	3,74E+04	7,98E+02	50.003.382.858
+Descending colon wall	8,74E+06	6,89E+03	8.999.974.555
+ET region	8,10E+06	6,27E+03	1.861.219.746.375
+Eye bulb left	7,13E+06	1,83E+04	730.123.317
+Eye bulb right	7,16E+06	6,69E+02	730.123.317
+Eye lense left	7,01E+06	3,66E+04	0.20814919125
+Eye lense right	7,00E+06	9,65E+03	0.192137715
+Femora lower half cortical	6,40E+06	1,24E+04	23.246.833.632
+Femora lower half medullary cavity	8,72E+06	1,27E+04	554.274.610.505
+Femora lower half spongiosa	7,79E+06	3,53E+03	1.746.239.658.031
+Femora upper half cortical	7,19E+06	1,12E+04	247.751.519.136
+Femora upper half medullary cavity	9,10E+06	1,75E+03	39.512.053.658
+Femora upper half spongiosa	9,20E+06	5,45E+03	22.498.152.251.575
+Gall bladder contents	4,17E+06	2,86E+03	4.575.302.211.975
+Gall bladder wall	8,94E+06	3,73E+04	10.240.635.229
+Heart contents (blood)	9,54E+06	4,98E+02	3.700.093.571.515
+Heart wall	9,60E+06	2,01E+03	2.500.031.901.675
+Humeri lower half cortical	5,85E+06	1,33E+04	102.209.944.848
+Humeri lower half medullary cavity	8,23E+06	5,99E+03	205.480.611.875
+Humeri lower half spongiosa	7,24E+06	1,01E+03	5.276.873.254.565
+Humeri upper half cortical	6,17E+06	6,95E+02	112.603.680.288
+Humeri upper half medullary cavity	8,57E+06	1,92E+04	198.905.232.295
+Humeri upper half spongiosa	7,24E+06	4,11E+03	11.190.809.601.263
+Kidney left cortex	9,28E+06	8,42E+02	10.463.499.729.375
+Kidney left medulla	9,29E+06	3,56E+03	373.707.855.675
+Kidney left pelvis	9,36E+06	3,35E+04	747.735.940.875
+Kidney right cortex	9,31E+05	2,97E+03	8.787.098.166
+Kidney right medulla	9,30E+06	3,55E+03	3.138.249.345
+Kidney right pelvis	9,41E+06	4,79E+04	627.649.869
+LBreast-a + LBresat-g	8,32E+06	1,98E+03	25.000.517.254.075
+Left colon wall (left transverse + descending)	8,76E+06	1,01E+03	144.998.708.998
+Left kidney C+M+P	9,29E+06	5,31E+03	14.948.314.227
+Left lung lobe	1,68E+07	4,50E+03	43.624.059.992.425
+Lenses of eye	7,00E+06	5,56E+04	0.40028690625
+Liver	9,20E+06	1,79E+03	13.999.954.488.712
+Lumbar spine cortical	8,02E+06	6,59E+03	154.617.793.968
+Lumbar spine spongiosa	9,08E+06	3,39E+03	2.613.493.187.129
+Lung left blood	1,04E+07	1,13E+04	59.224.773.256
+Lung left tissue	1,77E+07	6,49E+03	37.701.582.666.825
+Lung right blood	1,07E+07	1,34E+04	422.687.723.975
+Lung right tissue	1,80E+07	4,52E+03	47.203.006.159.925
+Lymph nodes	9,09E+05	3,46E+03	791.293.255.885
+Lymph nodes except LN-ET + LN-Th	9,08E+06	3,31E+03	7.393.047.549.525
+Lymphatic nodes arms	8,25E+06	2,27E+04	3.895.210.946
+Lymphatic nodes extrathoracic airways	8,32E+06	5,84E+04	133.505.213.875
+Lymphatic nodes head	8,00E+06	1,52E+04	2.575.865.303
+Lymphatic nodes legs	8,36E+06	1,80E+04	9.800.853.348
+Lymphatic nodes thoracic airways	9,58E+06	1,28E+04	38.637.979.545
+Lymphatic nodes trunk	9,31E+06	5,81E+03	5.765.854.589.825
+Mandible cortical	5,84E+06	1,28E+03	4.494.192.648
+Mandible spongiosa	7,11E+06	7,37E+03	346.666.454.662
+Muscle	8,41E+06	1,85E+03	17.499.999.151.057
+Muscle arms	7,59E+06	2,38E+03	1.524.868.952.145
+Muscle head	7,80E+06	2,64E+03	40.196.811.125.625
+Muscle legs	8,16E+05	1,87E+03	70.549.446.423.225
+Muscle trunk	8,80E+06	1,85E+03	85.182.174.453.337
+Oesophagus	9,50E+06	2,22E+04	34.994.072.531
+Oral mucosa	7,92E+06	1,60E+04	224.480.897.025
+Oral mucosa lips and cheeks	7,31E+06	2,22E+04	40.028.690.625
+Oral mucosa tongue	8,05E+06	1,53E+04	1.844.522.064
+Ovary left	9,74E+06	1,75E+04	5.503.068.142
+Ovary right	9,67E+06	1,36E+04	5.503.068.142
+Pancreas	9,18E+06	5,54E+03	12.000.601.449.375
+Pelvis cortical	7,80E+06	1,20E+03	259.843.386
+Pelvis spongiosa	9,07E+06	1,76E+04	4.450.343.161.671
+Pituitary gland	8,39E+06	2,84E+03	0.5968468385
+Posterior nasal passage down to larynx (ET2)	8,34E+06	6,54E+03	142.929.111.325
+RAdrenal + LAdrenal	9,58E+05	2,99E+04	13.004.978.481
+RBreast-a + LBreast-a	8,42E+06	3,99E+03	3.000.169.423.625
+RBreast-a + RBreast-g	8,38E+06	6,02E+03	25.000.517.254.075
+RBreast-g + LBreast-g	8,24E+06	2,49E+03	199.993.402.719
+RKidney + LKidney	9,30E+06	2,54E+03	27.501.311.607
+RLung + LLung	1,71E+06	3,83E+03	950.539.433.921
+ROvary + LOvary	9,70E+06	6,69E+03	11.006.136.284
+Rectum wall	9,68E+06	1,57E+04	24.993.761.936
+Residual tissue arms	7,92E+06	1,56E+03	20.424.040.867.175
+Residual tissue head	7,79E+06	2,22E+03	88.607.128.341.875
+Residual tissue legs	8,14E+06	1,10E+03	88.648.415.077.062
+Residual tissue trunk	8,88E+06	1,46E+03	11.803.124.288.271
+Ribs cortical	7,41E+06	8,16E+03	162.874.226.064
+Ribs spongiosa	8,84E+06	1,34E+04	2.591.540.690.739
+Right colon wall (ascending + right transverse)	8,61E+06	2,31E+02	144.998.708.998
+Right kidney C+M+P	9,31E+06	2,34E+03	1.255.299.738
+Right lung lobe	1,74E+07	3,52E+03	51.429.883.399.675
+Sacrum spongiosa	9,47E+06	1,99E+04	1.404.314.430.222
+Salivary glands	7,96E+06	4,14E+03	7.000.385.155.775
+Salivary glands left	7,97E+05	1,07E+02	34.994.072.531
+Salivary glands right	7,94E+06	1,47E+04	3.500.977.902.675
+Scapulae cortical	6,47E+06	5,37E+03	120.450.218.592
+Scapulae spongiosa	7,84E+06	1,11E+04	968.754.699.264
+Sigmoid colon contents	4,07E+06	7,95E+03	79.992.725.384
+Sigmoid colon wall	9,07E+06	8,32E+03	45.007.802.268
+Sigmoid colon wall + rectum wall	9,29E+06	9,40E+03	70.001.564.204
+Skin	6,79E+05	1,15E+02	2.721.461.163.817
+Skin at top and bottom	1,02E+06	6,81E+03	284.226.576.975
+Skin arms	6,66E+06	1,21E+03	469.522.359.438
+Skin head	6,37E+06	5,79E+03	173.394.833.392
+Skin legs	6,62E+06	1,92E+03	10.744.263.252.772
+Skin trunk	7,10E+06	1,53E+03	10.041.176.457.097
+Small intestine contents	3,99E+06	1,52E+03	280.006.256.816
+Small intestine wall	9,07E+06	2,37E+03	599.993.017.338
+Spinal cord	9,09E+06	6,20E+03	186.279.039.595
+Spleen	9,12E+06	2,42E+03	129.996.108.242
+Sternum cortical	7,16E+06	4,95E+04	1.668.853.296
+Sternum spongiosa	8,99E+06	1,34E+04	47.418.978.101
+Stomach contents	3,54E+06	2,33E+03	230.002.873.958
+Stomach wall	8,64E+06	6,09E+03	140.003.128.408
+Teeth	4,72E+06	1,11E+04	400.058.170.875
+Thoracic spine cortical	7,62E+06	7,11E+03	20.377.577.088
+Thoracic spine spongiosa	9,21E+06	1,27E+04	2.526.271.203.973
+Thymus	9,25E+06	6,81E+03	1.999.436.908.975
+Thyroid	8,61E+06	7,79E+03	17.000.832.992
+Tibiae fibulae and patellae cortical	5,32E+06	3,31E+03	618.851.791.536
+Tibiae fibulae and patellae medullary cavity	7,72E+06	4,30E+03	876.468.209.925
+Tibiae fibulae and patellae spongiosa	7,22E+06	1,32E+03	58.636.656.484.312
+Tongue	8,11E+06	2,25E+03	5.999.500.150.875
+Tongue (inner part)	8,13E+06	6,20E+03	4.154.978.086.875
+Tonsils	8,29E+06	1,72E+04	299.994.068.825
+Total body except organ contents	8,39E+06	1,20E+03	58.924.577.945.792
+Trachea	9,09E+06	2,09E+04	799.460.633.675
+Transverse colon contents left	3,89E+06	5,98E+03	30.005.201.512
+Transverse colon contents right	3,67E+06	1,36E+04	59.994.544.038
+Transverse colon wall left	8,80E+05	1,57E+03	54.998.963.448
+Transverse colon wall right	8,59E+06	3,45E+03	54.998.963.448
+Ulnae and radii cortical	5,18E+06	1,03E+04	155.144.800.272
+Ulnae and radii medullary cavity	7,52E+06	5,15E+03	33.594.212.036
+Ulnae and radii spongiosa	6,94E+06	3,29E+03	91.212.576.753.375
+Ureter left	9,64E+06	2,69E+04	75.077.049.685
+Ureter right	9,59E+04	3,92E+04	749.199.847.275
+Ureters	9,61E+06	8,37E+03	1.499.970.344.125
+Urinary bladder contents	3,40E+06	3,20E+03	199.997.672.446
+Urinary bladder wall	8,47E+06	4,63E+03	39.996.362.692
+Uterus	9,52E+06	1,13E+04	800.088.893.505
+Wrists and hand bones cortical	5,00E+06	6,78E+03	10.408.374.504
+Wrists and hand bones spongiosa	6,78E+06	8,56E+03	72.816.762.954.375
